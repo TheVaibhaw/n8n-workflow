@@ -262,3 +262,22 @@ docker compose up -d
 ```
 
 ---
+
+# Start
+docker-compose up -d
+
+# Stop
+docker-compose down
+
+# Restart
+docker-compose restart
+
+# Status
+docker ps
+
+# Logs
+docker logs -f n8n
+
+# Update
+docker pull docker.n8n.io/n8nio/n8n:latest
+docker-compose up -d
