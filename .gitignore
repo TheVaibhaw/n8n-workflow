@@ -1,0 +1,30 @@
+# Docker
+
+.env
+.env.local
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Docker Volumes
+
+n8n_data/
+
+# Backup Files
+
+*.tar.gz
+
+# Node
+
+node_modules/
